@@ -43,9 +43,5 @@ class Program
         {
             Console.WriteLine(word);
         }
-
-
-
-
     }
 }
