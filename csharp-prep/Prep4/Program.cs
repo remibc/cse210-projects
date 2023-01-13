@@ -36,7 +36,7 @@ class Program
 
         Console.WriteLine($"The sum is: {sum}");
         Console.WriteLine($"The average is: {average}");
-        Console.WriteLine($"The sum is: {largest}");
+        Console.WriteLine($"The largest number is: {largest}");
 
         number.Sort();
         foreach (int word in number)
