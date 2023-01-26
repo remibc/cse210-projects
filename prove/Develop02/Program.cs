@@ -114,7 +114,7 @@ class Program
 
                 else if (ynSave.ToUpper() != "N" && ynSave.ToUpper() != "Y" )
                 {
-                    //If use eneter an invalid answer the code will reject the value
+                    //If user eneter an invalid answer the code will reject the value
                     Console.Write("\nThis is not a valid option. Please select a valid option\n");
                 }
             }
