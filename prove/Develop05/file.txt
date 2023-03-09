@@ -1,0 +1,4 @@
+321
+SimpleGoal:test1,test1,12,True
+EternalGoal:test2,test2,13,False
+CheckingGoal:test3,test3,3,3,300,True,3
