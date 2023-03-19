@@ -1,0 +1,4 @@
+Test 1,Remi,12,Oli:Nice|Luis:Nice|Liz:Nice|
+Test 2,Oli,123,Remi:Nice|Jose:Nice|Liz:nice|
+Test 3,Liz,123,Remi:Nice|Jose:Nice|Oli:nice|
+Test 4,Luis,123,Remi:Nice|Jose:Nice|Oli:nice|
